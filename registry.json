@@ -1,0 +1,24 @@
+{
+  "repository": "lanesuwu/csgo-playermodels",
+  "next_wire_id": 18,
+  "models": {
+    "anomea": 1,
+    "astolfo-casual": 14,
+    "astolfo-schoolgirl": 15,
+    "brenton": 11,
+    "chocola-bikini": 16,
+    "epstein": 12,
+    "georgef": 13,
+    "karin": 2,
+    "lime": 3,
+    "mamehinata": 4,
+    "mamehinata-small": 5,
+    "milk": 6,
+    "milk-sailor": 7,
+    "munkk": 8,
+    "ruskd-v2": 10,
+    "rusk-v2": 9,
+    "vanilla-bikini": 17
+  },
+  "retired_ids": []
+}
