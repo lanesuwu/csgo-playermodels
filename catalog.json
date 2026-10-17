@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 9,
+  "revision": 10,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -8225,6 +8225,244 @@
           {
             "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.vvd",
             "size": 163520
+          }
+        ]
+      }
+    },
+    {
+      "id": "aether",
+      "wire_id": 23,
+      "label": "Elemental Warfare - Aether (Genshin Impact)",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/aether/v1_0_0/v_aether_arms.mdl",
+        "sleeves": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.mdl",
+        "hands": "models/weapons/custom/aether/v1_0_0/v_aether_hands.mdl"
+      },
+      "checksum": 2555991146,
+      "arm_checksums": {
+        "arms": 1946867412,
+        "sleeves": 2778806383,
+        "hands": 3385485073
+      },
+      "preview": {
+        "height": 85.69349274039268,
+        "focus": 42.515482023358345,
+        "distance": 115.68621519953014
+      },
+      "package": {
+        "id": "aether",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r10/aether-1.0.0.zip",
+        "sha256": "dd193ba024bae5568101b47ae78f4f4a88378037c3daed6607470263a3643a10",
+        "bytes": 6849857,
+        "unpacked_bytes": 17060094,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/aether_body_basecolor01_noshadows.vtf",
+            "size": 699232
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/ambient.vtf",
+            "size": 22080
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/avatar_boy_sword_playerboy_tex_face_diffuse.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/avatar_boy_sword_playerboy_tex_hair_diffuse.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/basewarp.vtf",
+            "size": 4208
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/black.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/body.vmt",
+            "size": 651
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/cornea.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/eye_l.vmt",
+            "size": 599
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/eye_l.vtf",
+            "size": 349760
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/eye_r.vmt",
+            "size": 599
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/eye_r.vtf",
+            "size": 349760
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/face.vmt",
+            "size": 671
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/hair.vmt",
+            "size": 671
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/oh_outline_material.vmt",
+            "size": 112
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/oh_outline_material_none.vmt",
+            "size": 232
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/outline.vtf",
+            "size": 224
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/outline_none.vtf",
+            "size": 16592
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/tacticalbody.vmt",
+            "size": 651
+          },
+          {
+            "path": "materials/models/player/custom_player/aether/v1_0_0/white.vtf",
+            "size": 115
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/aether_body_basecolor01_noshadows.vtf",
+            "size": 699232
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/basewarp.vtf",
+            "size": 4208
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/oh_outline_material.vmt",
+            "size": 108
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/oh_outline_material_none.vmt",
+            "size": 224
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/outline.vtf",
+            "size": 224
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/outline_none.vtf",
+            "size": 16592
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/tacticalbody.vmt",
+            "size": 631
+          },
+          {
+            "path": "materials/models/weapons/v_models/aether/v1_0_0/white.vtf",
+            "size": 115
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.dx80.vtx",
+            "size": 1200334
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.dx90.vtx",
+            "size": 1192229
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.mdl",
+            "size": 1012196
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.phy",
+            "size": 55953
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.sw.vtx",
+            "size": 1189811
+          },
+          {
+            "path": "models/player/custom_player/legacy/aether/v1_0_0/ctm_aether.vvd",
+            "size": 4540864
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_arms.dx80.vtx",
+            "size": 206155
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_arms.dx90.vtx",
+            "size": 205309
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_arms.mdl",
+            "size": 22924
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_arms.sw.vtx",
+            "size": 204541
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_arms.vvd",
+            "size": 786048
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_hands.dx80.vtx",
+            "size": 108605
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_hands.dx90.vtx",
+            "size": 107759
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_hands.mdl",
+            "size": 21968
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_hands.sw.vtx",
+            "size": 107119
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_hands.vvd",
+            "size": 402944
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.dx80.vtx",
+            "size": 97594
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.dx90.vtx",
+            "size": 97594
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.mdl",
+            "size": 21148
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.sw.vtx",
+            "size": 97466
+          },
+          {
+            "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.vvd",
+            "size": 383168
           }
         ]
       }
