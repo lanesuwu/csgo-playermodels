@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 1,
+  "revision": 2,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -6995,6 +6995,232 @@
           {
             "path": "models/weapons/custom/vanilla_bikini/v_vanilla_bikini_sleeves.vvd",
             "size": 47232
+          }
+        ]
+      }
+    },
+    {
+      "id": "gorou",
+      "wire_id": 18,
+      "label": "Gorou",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_gorou.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/gorou/v_gorou_arms.mdl",
+        "sleeves": "models/weapons/custom/gorou/v_gorou_sleeves.mdl",
+        "hands": "models/weapons/custom/gorou/v_gorou_hands.mdl"
+      },
+      "checksum": 2994997823,
+      "arm_checksums": {
+        "arms": 3336435233,
+        "sleeves": 4072454079,
+        "hands": 1951404527
+      },
+      "preview": {
+        "height": 85.90366067923605,
+        "focus": 42.95573954563588,
+        "distance": 115.96994191696868
+      },
+      "package": {
+        "id": "gorou",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r2/gorou-1.0.0.zip",
+        "sha256": "e9e15500f358c7f44a14fa09a15af8eb2b2b89c99c2a06ca3da7f442c78b2655",
+        "bytes": 2783485,
+        "unpacked_bytes": 13992224,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/gorou/body_jewel.vmt",
+            "size": 807
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/body_outfit.vmt",
+            "size": 537
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/body_outfit.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/body_outfit_metal.vmt",
+            "size": 648
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/body_skin.vmt",
+            "size": 522
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/eyes.vmt",
+            "size": 507
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/face.vmt",
+            "size": 513
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/face.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/hair.vmt",
+            "size": 534
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/hair.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/hair_accessory.vmt",
+            "size": 530
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/hair_accessory_metal.vmt",
+            "size": 641
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/jewel_glow_mask.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "materials/models/player/custom_player/gorou/tail.vmt",
+            "size": 543
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/body_outfit.vmt",
+            "size": 521
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/body_outfit.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/body_outfit_metal.vmt",
+            "size": 632
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/body_skin.vmt",
+            "size": 506
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/face.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/hair.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/jewel_glow_mask.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/weapons/v_models/gorou/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.dx80.vtx",
+            "size": 275167
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.dx90.vtx",
+            "size": 273385
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.mdl",
+            "size": 142356
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.phy",
+            "size": 53892
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.sw.vtx",
+            "size": 271785
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_gorou.vvd",
+            "size": 978624
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_arms.dx80.vtx",
+            "size": 46250
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_arms.dx90.vtx",
+            "size": 45969
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_arms.mdl",
+            "size": 21676
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_arms.sw.vtx",
+            "size": 45553
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_arms.vvd",
+            "size": 162368
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_hands.dx80.vtx",
+            "size": 31836
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_hands.dx90.vtx",
+            "size": 31555
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_hands.mdl",
+            "size": 21072
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_hands.sw.vtx",
+            "size": 31203
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_hands.vvd",
+            "size": 110336
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_sleeves.dx80.vtx",
+            "size": 14458
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_sleeves.dx90.vtx",
+            "size": 14458
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_sleeves.mdl",
+            "size": 20656
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_sleeves.sw.vtx",
+            "size": 14394
+          },
+          {
+            "path": "models/weapons/custom/gorou/v_gorou_sleeves.vvd",
+            "size": 52096
           }
         ]
       }
