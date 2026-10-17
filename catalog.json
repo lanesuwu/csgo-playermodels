@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 8,
+  "revision": 9,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -8019,6 +8019,212 @@
           {
             "path": "models/weapons/custom/edgar/v_edgar_sleeves.vvd",
             "size": 303424
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyaru",
+      "wire_id": 22,
+      "label": "Kyaru (Princess Connect Re:Dive)",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.mdl",
+        "sleeves": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.mdl",
+        "hands": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.mdl"
+      },
+      "checksum": 2309082745,
+      "arm_checksums": {
+        "arms": 16324876,
+        "sleeves": 4205613083,
+        "hands": 3060330077
+      },
+      "preview": {
+        "height": 84.30440044403076,
+        "focus": 42.480215549468994,
+        "distance": 113.81094059944154
+      },
+      "package": {
+        "id": "kyaru",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r9/kyaru-1.0.0.zip",
+        "sha256": "024add1bc4284c1e5925a21e1d8c5d377553c7f3a9491fc99fd1af071836cfa0",
+        "bytes": 7893811,
+        "unpacked_bytes": 18533976,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/cloth.vmt",
+            "size": 929
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/cloth.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/cloth_metal.vmt",
+            "size": 935
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/cloth_metal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/eye.vmt",
+            "size": 993
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/eye.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/hair.vmt",
+            "size": 928
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/hair.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/phong.vtf",
+            "size": 699296
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/skin.vmt",
+            "size": 928
+          },
+          {
+            "path": "materials/models/player/custom_player/kyaru/v1_0_0/skin.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/cloth.vmt",
+            "size": 913
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/cloth.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/cloth_metal.vmt",
+            "size": 919
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/cloth_metal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/phong.vtf",
+            "size": 699296
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/skin.vmt",
+            "size": 912
+          },
+          {
+            "path": "materials/models/weapons/v_models/kyaru/v1_0_0/skin.vtf",
+            "size": 699272
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.dx80.vtx",
+            "size": 1234073
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.dx90.vtx",
+            "size": 1225303
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.mdl",
+            "size": 731164
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.phy",
+            "size": 62572
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.sw.vtx",
+            "size": 1223551
+          },
+          {
+            "path": "models/player/custom_player/legacy/kyaru/v1_0_0/ctm_kyaru.vvd",
+            "size": 4599808
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.dx80.vtx",
+            "size": 131964
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.dx90.vtx",
+            "size": 131528
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.mdl",
+            "size": 21096
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.sw.vtx",
+            "size": 131192
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_arms.vvd",
+            "size": 449472
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.dx80.vtx",
+            "size": 87721
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.dx90.vtx",
+            "size": 87285
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.mdl",
+            "size": 20424
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.sw.vtx",
+            "size": 87013
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_hands.vvd",
+            "size": 286016
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.dx80.vtx",
+            "size": 44287
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.dx90.vtx",
+            "size": 44287
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.mdl",
+            "size": 20668
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.sw.vtx",
+            "size": 44223
+          },
+          {
+            "path": "models/weapons/custom/kyaru/v1_0_0/v_kyaru_sleeves.vvd",
+            "size": 163520
           }
         ]
       }
