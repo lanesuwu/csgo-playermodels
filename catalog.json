@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 2,
+  "revision": 3,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -7221,6 +7221,188 @@
           {
             "path": "models/weapons/custom/gorou/v_gorou_sleeves.vvd",
             "size": 52096
+          }
+        ]
+      }
+    },
+    {
+      "id": "durin",
+      "wire_id": 19,
+      "label": "Durin",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_durin.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/durin/v_durin_arms.mdl",
+        "sleeves": "models/weapons/custom/durin/v_durin_sleeves.mdl",
+        "hands": "models/weapons/custom/durin/v_durin_hands.mdl"
+      },
+      "checksum": 7148577,
+      "arm_checksums": {
+        "arms": 2965070963,
+        "sleeves": 659894310,
+        "hands": 2909333730
+      },
+      "preview": {
+        "height": 86.20641756057739,
+        "focus": 42.914308309555054,
+        "distance": 116.37866370677949
+      },
+      "package": {
+        "id": "durin",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r3/durin-1.0.0.zip",
+        "sha256": "c91b86b6686518f6ad92b55e4b497ba09ee92c622cd8b448a641712873a3a57c",
+        "bytes": 6010236,
+        "unpacked_bytes": 16986336,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/durin/body.vmt",
+            "size": 545
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/body.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/eye.vmt",
+            "size": 544
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/eye.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/face.vmt",
+            "size": 545
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/face.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/lightwarptexture.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/pupil.vmt",
+            "size": 546
+          },
+          {
+            "path": "materials/models/player/custom_player/durin/pupil.vtf",
+            "size": 43928
+          },
+          {
+            "path": "materials/models/weapons/v_models/durin/body.vmt",
+            "size": 529
+          },
+          {
+            "path": "materials/models/weapons/v_models/durin/body.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/weapons/v_models/durin/lightwarptexture.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/weapons/v_models/durin/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/weapons/v_models/durin/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.dx80.vtx",
+            "size": 565275
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.dx90.vtx",
+            "size": 556531
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.mdl",
+            "size": 603556
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.phy",
+            "size": 47985
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.sw.vtx",
+            "size": 551448
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_durin.vvd",
+            "size": 2281984
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_arms.dx80.vtx",
+            "size": 65990
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_arms.dx90.vtx",
+            "size": 64694
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_arms.mdl",
+            "size": 20812
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_arms.sw.vtx",
+            "size": 64390
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_arms.vvd",
+            "size": 264768
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_hands.dx80.vtx",
+            "size": 42303
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_hands.dx90.vtx",
+            "size": 41007
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_hands.mdl",
+            "size": 20524
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_hands.sw.vtx",
+            "size": 40735
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_hands.vvd",
+            "size": 162240
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_sleeves.dx80.vtx",
+            "size": 23731
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_sleeves.dx90.vtx",
+            "size": 23731
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_sleeves.mdl",
+            "size": 20256
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_sleeves.sw.vtx",
+            "size": 23699
+          },
+          {
+            "path": "models/weapons/custom/durin/v_durin_sleeves.vvd",
+            "size": 102592
           }
         ]
       }
