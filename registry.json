@@ -1,6 +1,6 @@
 {
   "repository": "lanesuwu/csgo-playermodels",
-  "next_wire_id": 20,
+  "next_wire_id": 21,
   "models": {
     "anomea": 1,
     "astolfo-casual": 14,
@@ -20,7 +20,8 @@
     "rusk-v2": 9,
     "vanilla-bikini": 17,
     "gorou": 18,
-    "durin": 19
+    "durin": 19,
+    "furina-flying": 20
   },
   "retired_ids": []
 }

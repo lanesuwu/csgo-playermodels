@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 3,
+  "revision": 4,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -7403,6 +7403,188 @@
           {
             "path": "models/weapons/custom/durin/v_durin_sleeves.vvd",
             "size": 102592
+          }
+        ]
+      }
+    },
+    {
+      "id": "furina-flying",
+      "wire_id": 20,
+      "label": "Furina - Genshin Impact (The Flying Fontainese)",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_furina_flying.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/furina_flying/v_furina_flying_arms.mdl",
+        "sleeves": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.mdl",
+        "hands": "models/weapons/custom/furina_flying/v_furina_flying_hands.mdl"
+      },
+      "checksum": 153062276,
+      "arm_checksums": {
+        "arms": 338289915,
+        "sleeves": 3719460204,
+        "hands": 2513496907
+      },
+      "preview": {
+        "height": 87.32465314865112,
+        "focus": 43.89913582801819,
+        "distance": 117.88828175067903
+      },
+      "package": {
+        "id": "furina-flying",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r4/furina-flying-1.0.0.zip",
+        "sha256": "1a3d6d2854ee4365018f283dd562a98538578969cf7c27ecd0628572b4c176fa",
+        "bytes": 6098789,
+        "unpacked_bytes": 31706575,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/furina_flying/body.vmt",
+            "size": 577
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/body.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/face.vmt",
+            "size": 577
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/face.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/hair.vmt",
+            "size": 577
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/hair.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/furina_flying/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/body.vmt",
+            "size": 561
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/body.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/hair.vmt",
+            "size": 561
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/hair.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/lightwarptexture.vtf",
+            "size": 3184
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/weapons/v_models/furina_flying/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.dx80.vtx",
+            "size": 380597
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.dx90.vtx",
+            "size": 376649
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.mdl",
+            "size": 486060
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.phy",
+            "size": 45781
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.sw.vtx",
+            "size": 375833
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_furina_flying.vvd",
+            "size": 1368896
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_arms.dx80.vtx",
+            "size": 39696
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_arms.dx90.vtx",
+            "size": 38523
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_arms.mdl",
+            "size": 21044
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_arms.sw.vtx",
+            "size": 38187
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_arms.vvd",
+            "size": 136256
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_hands.dx80.vtx",
+            "size": 31731
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_hands.dx90.vtx",
+            "size": 30558
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_hands.mdl",
+            "size": 20572
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_hands.sw.vtx",
+            "size": 30286
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_hands.vvd",
+            "size": 107648
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.dx80.vtx",
+            "size": 8009
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.dx90.vtx",
+            "size": 8009
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.mdl",
+            "size": 20484
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.sw.vtx",
+            "size": 7945
+          },
+          {
+            "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.vvd",
+            "size": 28672
           }
         ]
       }
