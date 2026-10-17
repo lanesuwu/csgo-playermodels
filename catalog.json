@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 4,
+  "revision": 5,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -7585,6 +7585,232 @@
           {
             "path": "models/weapons/custom/furina_flying/v_furina_flying_sleeves.vvd",
             "size": 28672
+          }
+        ]
+      }
+    },
+    {
+      "id": "edgar",
+      "wire_id": 21,
+      "label": "Edgar - Neverness to Everness",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_edgar.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/edgar/v_edgar_arms.mdl",
+        "sleeves": "models/weapons/custom/edgar/v_edgar_sleeves.mdl",
+        "hands": "models/weapons/custom/edgar/v_edgar_hands.mdl"
+      },
+      "checksum": 878982816,
+      "arm_checksums": {
+        "arms": 3597781011,
+        "sleeves": 728168758,
+        "hands": 1729936010
+      },
+      "preview": {
+        "height": 86.57169565558434,
+        "focus": 43.0919521600008,
+        "distance": 116.87178913503887
+      },
+      "package": {
+        "id": "edgar",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r5/edgar-1.0.0.zip",
+        "sha256": "37da93faa815636e460292f32420b671658e56e18869d0389e4a584da585d4c4",
+        "bytes": 40960595,
+        "unpacked_bytes": 147901683,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/edgar/basewarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/common_face_d.vmt",
+            "size": 377
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/common_face_d.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/dev_normal.vtf",
+            "size": 174968
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/mian2.vmt",
+            "size": 369
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/mian2.vtf",
+            "size": 22369856
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_body1_d.vmt",
+            "size": 371
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_body1_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_body2_d.vmt",
+            "size": 371
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_body2_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_eyes_d.vmt",
+            "size": 370
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_eyes_d.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_face_d.vmt",
+            "size": 370
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_face_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair1_d na.vmt",
+            "size": 377
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair1_d na.vtf",
+            "size": 22369856
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair1_d.vmt",
+            "size": 374
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair1_d.vtf",
+            "size": 22369856
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair2_d.vmt",
+            "size": 371
+          },
+          {
+            "path": "materials/models/player/custom_player/edgar/t_player_021_edgar_hair2_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/basewarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/dev_normal.vtf",
+            "size": 174968
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/t_player_021_edgar_body1_d.vmt",
+            "size": 359
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/t_player_021_edgar_body1_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/t_player_021_edgar_body2_d.vmt",
+            "size": 359
+          },
+          {
+            "path": "materials/models/weapons/v_models/edgar/t_player_021_edgar_body2_d.vtf",
+            "size": 11185032
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.dx80.vtx",
+            "size": 705573
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.dx90.vtx",
+            "size": 691871
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.mdl",
+            "size": 400788
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.phy",
+            "size": 64827
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.sw.vtx",
+            "size": 685829
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_edgar.vvd",
+            "size": 2567744
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_arms.dx80.vtx",
+            "size": 137246
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_arms.dx90.vtx",
+            "size": 135653
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_arms.mdl",
+            "size": 21312
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_arms.sw.vtx",
+            "size": 135237
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_arms.vvd",
+            "size": 495296
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_hands.dx80.vtx",
+            "size": 57952
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_hands.dx90.vtx",
+            "size": 56359
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_hands.mdl",
+            "size": 20816
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_hands.sw.vtx",
+            "size": 56071
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_hands.vvd",
+            "size": 191936
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_sleeves.dx80.vtx",
+            "size": 79338
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_sleeves.dx90.vtx",
+            "size": 79338
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_sleeves.mdl",
+            "size": 20612
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_sleeves.sw.vtx",
+            "size": 79210
+          },
+          {
+            "path": "models/weapons/custom/edgar/v_edgar_sleeves.vvd",
+            "size": 303424
           }
         ]
       }
